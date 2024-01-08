@@ -24,7 +24,7 @@ img {
     text-align: center;
   }
 }
-.main-page-container {
+.main-page {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -34,7 +34,7 @@ img {
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 ul {
